@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KarlSherman1999/REST_API/static/css/main.c744ae35.css",
+    "main.js": "/KarlSherman1999/REST_API/static/js/main.0087e70d.js",
+    "static/js/787.0ccb69b8.chunk.js": "/KarlSherman1999/REST_API/static/js/787.0ccb69b8.chunk.js",
+    "index.html": "/KarlSherman1999/REST_API/index.html",
+    "main.c744ae35.css.map": "/KarlSherman1999/REST_API/static/css/main.c744ae35.css.map",
+    "main.0087e70d.js.map": "/KarlSherman1999/REST_API/static/js/main.0087e70d.js.map",
+    "787.0ccb69b8.chunk.js.map": "/KarlSherman1999/REST_API/static/js/787.0ccb69b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c744ae35.css",
+    "static/js/main.0087e70d.js"
+  ]
+}
